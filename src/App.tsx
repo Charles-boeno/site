@@ -17,8 +17,6 @@ function App() {
       <main>
         <section id="inicio">
           <Hero />
-        </section>
-        <section id="sobre">
           <About />
         </section>
         <section id="produtos">
